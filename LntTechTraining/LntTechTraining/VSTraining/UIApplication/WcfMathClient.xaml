@@ -1,0 +1,29 @@
+﻿<Window x:Class="UIApplication.WcfMathClient"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:UIApplication"
+        mc:Ignorable="d"
+        Title="WcfMathClient" Height="300" Width="300">
+    <Grid>
+        <StackPanel Margin="2">
+            <Label HorizontalAlignment="Center" FontSize="36">Math Calc App</Label>
+            <StackPanel HorizontalAlignment="Center" Margin="2" Orientation="Horizontal">
+                <Label>Enter Value 1:</Label>
+                <TextBox Name="txtValue1" MinWidth="200" Margin="2"/>
+            </StackPanel>
+            <StackPanel HorizontalAlignment="Center" Margin="2" Orientation="Horizontal">
+                <Label>Enter Value 2:</Label>
+                <TextBox Name="txtValue2" MinWidth="200" Margin="2"/>
+            </StackPanel>
+            <StackPanel Margin="2" HorizontalAlignment="Center" Orientation="Horizontal">
+                <Button Margin="5" Name="btnAdd" Click="btnAdd_Click">Add Func</Button>
+                <Button Margin="5" Name="btnSub">Sub Func</Button>
+                <Button Margin="5" Name="btnMul">Mul Func</Button>
+                <Button Margin="5" Name="btnDiv">Div Func</Button>
+            </StackPanel>
+            <Label HorizontalAlignment="Center" FontSize="40" Name="lblResult"/> 
+        </StackPanel> 
+    </Grid>
+</Window>

@@ -1,0 +1,6 @@
+C:\Users\Phani Raj\Desktop\LntTechTraining\WCFProgram\WCFApplications\WCFClientApp\bin\Debug\WCFClientApp.exe.config
+C:\Users\Phani Raj\Desktop\LntTechTraining\WCFProgram\WCFApplications\WCFClientApp\bin\Debug\WCFClientApp.exe
+C:\Users\Phani Raj\Desktop\LntTechTraining\WCFProgram\WCFApplications\WCFClientApp\bin\Debug\WCFClientApp.pdb
+C:\Users\Phani Raj\Desktop\LntTechTraining\WCFProgram\WCFApplications\WCFClientApp\obj\Debug\WCFClientApp.exe
+C:\Users\Phani Raj\Desktop\LntTechTraining\WCFProgram\WCFApplications\WCFClientApp\obj\Debug\WCFClientApp.pdb
+C:\Users\Phani Raj\Desktop\LntTechTraining\WCFProgram\WCFApplications\WCFClientApp\obj\Debug\WCFClientApp.csprojResolveAssemblyReference.cache

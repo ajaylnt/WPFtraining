@@ -1,0 +1,2 @@
+C:\Users\Phani Raj\Desktop\LntTechTraining\VSTraining\MEFDemo\ContractLib\bin\Debug\ContractLib.dll
+C:\Users\Phani Raj\Desktop\LntTechTraining\VSTraining\MEFDemo\ContractLib\bin\Debug\ContractLib.pdb

@@ -1,0 +1,10 @@
+C:\Users\Phani Raj\Desktop\LntTechTraining\WCFProgram\WCFApplications\WCFServer\bin\Debug\WCFServer.exe.config
+C:\Users\Phani Raj\Desktop\LntTechTraining\WCFProgram\WCFApplications\WCFServer\bin\Debug\WCFServer.exe
+C:\Users\Phani Raj\Desktop\LntTechTraining\WCFProgram\WCFApplications\WCFServer\bin\Debug\WCFServer.pdb
+C:\Users\Phani Raj\Desktop\LntTechTraining\WCFProgram\WCFApplications\WCFServer\obj\Debug\WCFServer.exe
+C:\Users\Phani Raj\Desktop\LntTechTraining\WCFProgram\WCFApplications\WCFServer\obj\Debug\WCFServer.pdb
+C:\Users\Phani Raj\Desktop\LntTechTraining\WCFProgram\WCFApplications\WCFServer\bin\Debug\EntityFramework.dll
+C:\Users\Phani Raj\Desktop\LntTechTraining\WCFProgram\WCFApplications\WCFServer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Phani Raj\Desktop\LntTechTraining\WCFProgram\WCFApplications\WCFServer\bin\Debug\EntityFramework.xml
+C:\Users\Phani Raj\Desktop\LntTechTraining\WCFProgram\WCFApplications\WCFServer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Phani Raj\Desktop\LntTechTraining\WCFProgram\WCFApplications\WCFServer\obj\Debug\WCFServer.csprojResolveAssemblyReference.cache

@@ -1,0 +1,4 @@
+C:\Users\Phani Raj\Desktop\LntTechTraining\VSTraining\MEFDemo\MyNewExtension\bin\Debug\MyNewExtension.dll
+C:\Users\Phani Raj\Desktop\LntTechTraining\VSTraining\MEFDemo\MyNewExtension\bin\Debug\MyNewExtension.pdb
+C:\Users\Phani Raj\Desktop\LntTechTraining\VSTraining\MEFDemo\MyNewExtension\bin\Debug\ContractLib.dll
+C:\Users\Phani Raj\Desktop\LntTechTraining\VSTraining\MEFDemo\MyNewExtension\bin\Debug\ContractLib.pdb

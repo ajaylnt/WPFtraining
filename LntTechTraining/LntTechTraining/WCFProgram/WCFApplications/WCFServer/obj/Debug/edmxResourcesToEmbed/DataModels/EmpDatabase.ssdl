@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="LntDatabaseModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="DeptTable">
+    <Key>
+      <PropertyRef Name="DeptID" />
+    </Key>
+    <Property Name="DeptID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="DeptName" Type="varchar" MaxLength="100" Nullable="false" />
+  </EntityType>
+  <EntityType Name="EmpTable">
+    <Key>
+      <PropertyRef Name="EmpID" />
+    </Key>
+    <Property Name="EmpID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="EmpName" Type="varchar" MaxLength="100" Nullable="false" />
+    <Property Name="EmpAddress" Type="varchar" MaxLength="200" Nullable="false" />
+    <Property Name="EmpSalary" Type="int" Nullable="false" />
+    <Property Name="Dept" Type="int" />
+  </EntityType>
+  <Association Name="FK__EmpTable__Dept__239E4DCF">
+    <End Role="DeptTable" Type="Self.DeptTable" Multiplicity="0..1" />
+    <End Role="EmpTable" Type="Self.EmpTable" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="DeptTable">
+        <PropertyRef Name="DeptID" />
+      </Principal>
+      <Dependent Role="EmpTable">
+        <PropertyRef Name="Dept" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="LntDatabaseModelStoreContainer">
+    <EntitySet Name="DeptTable" EntityType="Self.DeptTable" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="EmpTable" EntityType="Self.EmpTable" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK__EmpTable__Dept__239E4DCF" Association="Self.FK__EmpTable__Dept__239E4DCF">
+      <End Role="DeptTable" EntitySet="DeptTable" />
+      <End Role="EmpTable" EntitySet="EmpTable" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

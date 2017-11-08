@@ -1,0 +1,15 @@
+Visual Studio Training:
+Objectives:
+To Create and develop rich Application by customizing the features of the Visual Studio for better productivity and easy maintainance of the Application after its delivered to the clients. 
+In this we will explore on Debugging features, UI features and Customization features of the Visual Studio including code snippets, Properties Customizations, Editing features, Formating and developing various kinds of Applications like WPF, WCF, DLLs and Database Components. 
+The software requirements:
+Visual Studio 2015 or later
+SQL server 2008 or later.
+Admin rights for creating shared assemblies.
+
+What is a solution?
+ Its a file with an extension .sln which represents the Application that U R going to build. The file is viewable as an XML File that contain the solution settings for the Solution to be opened thro Visual Studio.
+ 
+ A solution does not contain any output files. The output of UR Applications are developed using units of Apps called Project. Each project would generate a precompiled unit called Assembly.  Assembly could be either a DLL or an EXE. EXEs are executables that run on their own processes and DLLs are units that are loaded into the processes and executed there. So DLLs are called as InProc Components. DLLs dont run themselves. 
+ 
+ It is a good practise to divide UR App into modular structure. This is done by dividing UR App into reusable components called DLLs. DLLs are reusable components that make up the Application and easy to maintain....

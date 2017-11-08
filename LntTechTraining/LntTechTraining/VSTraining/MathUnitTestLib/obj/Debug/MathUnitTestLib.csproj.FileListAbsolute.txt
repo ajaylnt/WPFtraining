@@ -1,0 +1,9 @@
+C:\Users\Phani Raj\Desktop\LntTechTraining\VSTraining\MathUnitTestLib\bin\Debug\MathUnitTestLib.dll
+C:\Users\Phani Raj\Desktop\LntTechTraining\VSTraining\MathUnitTestLib\bin\Debug\MathUnitTestLib.pdb
+C:\Users\Phani Raj\Desktop\LntTechTraining\VSTraining\MathUnitTestLib\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Phani Raj\Desktop\LntTechTraining\VSTraining\MathUnitTestLib\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\Phani Raj\Desktop\LntTechTraining\VSTraining\MathUnitTestLib\obj\Debug\MathUnitTestLib.csprojResolveAssemblyReference.cache
+C:\Users\Phani Raj\Desktop\LntTechTraining\VSTraining\MathUnitTestLib\obj\Debug\MathUnitTestLib.dll
+C:\Users\Phani Raj\Desktop\LntTechTraining\VSTraining\MathUnitTestLib\obj\Debug\MathUnitTestLib.pdb
+C:\Users\Phani Raj\Desktop\LntTechTraining\VSTraining\MathUnitTestLib\bin\Debug\MathTestLib.dll
+C:\Users\Phani Raj\Desktop\LntTechTraining\VSTraining\MathUnitTestLib\bin\Debug\MathTestLib.pdb

@@ -1,0 +1,5 @@
+C:\Users\Phani Raj\Desktop\LntTechTraining\VSTraining\MathTestLib\bin\Debug\MathTestLib.dll
+C:\Users\Phani Raj\Desktop\LntTechTraining\VSTraining\MathTestLib\bin\Debug\MathTestLib.pdb
+C:\Users\Phani Raj\Desktop\LntTechTraining\VSTraining\MathTestLib\obj\Debug\MathTestLib.csprojResolveAssemblyReference.cache
+C:\Users\Phani Raj\Desktop\LntTechTraining\VSTraining\MathTestLib\obj\Debug\MathTestLib.dll
+C:\Users\Phani Raj\Desktop\LntTechTraining\VSTraining\MathTestLib\obj\Debug\MathTestLib.pdb

@@ -1,0 +1,6 @@
+C:\Users\Phani Raj\Desktop\LntTechTraining\VSTraining\WCF\SampleWcfLib\bin\Debug\SampleWcfLib.dll.config
+C:\Users\Phani Raj\Desktop\LntTechTraining\VSTraining\WCF\SampleWcfLib\bin\Debug\SampleWcfLib.dll
+C:\Users\Phani Raj\Desktop\LntTechTraining\VSTraining\WCF\SampleWcfLib\bin\Debug\SampleWcfLib.pdb
+C:\Users\Phani Raj\Desktop\LntTechTraining\VSTraining\WCF\SampleWcfLib\obj\Debug\SampleWcfLib.csprojResolveAssemblyReference.cache
+C:\Users\Phani Raj\Desktop\LntTechTraining\VSTraining\WCF\SampleWcfLib\obj\Debug\SampleWcfLib.dll
+C:\Users\Phani Raj\Desktop\LntTechTraining\VSTraining\WCF\SampleWcfLib\obj\Debug\SampleWcfLib.pdb

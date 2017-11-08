@@ -1,0 +1,6 @@
+C:\Users\Phani Raj\Desktop\LntTechTraining\VSTraining\SampleConApp\bin\Debug\SampleConApp.exe.config
+C:\Users\Phani Raj\Desktop\LntTechTraining\VSTraining\SampleConApp\bin\Debug\SampleConApp.exe
+C:\Users\Phani Raj\Desktop\LntTechTraining\VSTraining\SampleConApp\bin\Debug\SampleConApp.pdb
+C:\Users\Phani Raj\Desktop\LntTechTraining\VSTraining\SampleConApp\obj\Debug\SampleConApp.csprojResolveAssemblyReference.cache
+C:\Users\Phani Raj\Desktop\LntTechTraining\VSTraining\SampleConApp\obj\Debug\SampleConApp.exe
+C:\Users\Phani Raj\Desktop\LntTechTraining\VSTraining\SampleConApp\obj\Debug\SampleConApp.pdb

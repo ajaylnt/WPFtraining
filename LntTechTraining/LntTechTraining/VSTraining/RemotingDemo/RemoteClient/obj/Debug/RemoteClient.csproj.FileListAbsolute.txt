@@ -1,0 +1,8 @@
+C:\Users\Phani Raj\Desktop\LntTechTraining\VSTraining\RemotingDemo\RemoteClient\bin\Debug\RemoteClient.exe.config
+C:\Users\Phani Raj\Desktop\LntTechTraining\VSTraining\RemotingDemo\RemoteClient\bin\Debug\RemoteClient.exe
+C:\Users\Phani Raj\Desktop\LntTechTraining\VSTraining\RemotingDemo\RemoteClient\bin\Debug\RemoteClient.pdb
+C:\Users\Phani Raj\Desktop\LntTechTraining\VSTraining\RemotingDemo\RemoteClient\bin\Debug\RemoteObjectLib.dll
+C:\Users\Phani Raj\Desktop\LntTechTraining\VSTraining\RemotingDemo\RemoteClient\bin\Debug\RemoteObjectLib.pdb
+C:\Users\Phani Raj\Desktop\LntTechTraining\VSTraining\RemotingDemo\RemoteClient\obj\Debug\RemoteClient.exe
+C:\Users\Phani Raj\Desktop\LntTechTraining\VSTraining\RemotingDemo\RemoteClient\obj\Debug\RemoteClient.pdb
+C:\Users\Phani Raj\Desktop\LntTechTraining\VSTraining\RemotingDemo\RemoteClient\obj\Debug\RemoteClient.csprojResolveAssemblyReference.cache

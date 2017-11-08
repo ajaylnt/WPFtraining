@@ -1,0 +1,16 @@
+C:\Users\Phani Raj\Desktop\LntTechTraining\VSTraining\RemoteServer\bin\Debug\RemoteServer.exe.config
+C:\Users\Phani Raj\Desktop\LntTechTraining\VSTraining\RemoteServer\bin\Debug\RemoteServer.exe
+C:\Users\Phani Raj\Desktop\LntTechTraining\VSTraining\RemoteServer\bin\Debug\RemoteServer.pdb
+C:\Users\Phani Raj\Desktop\LntTechTraining\VSTraining\RemoteServer\bin\Debug\RemoteObjectLib.dll
+C:\Users\Phani Raj\Desktop\LntTechTraining\VSTraining\RemoteServer\bin\Debug\RemoteObjectLib.pdb
+C:\Users\Phani Raj\Desktop\LntTechTraining\VSTraining\RemoteServer\obj\Debug\RemoteServer.csprojResolveAssemblyReference.cache
+C:\Users\Phani Raj\Desktop\LntTechTraining\VSTraining\RemoteServer\obj\Debug\RemoteServer.exe
+C:\Users\Phani Raj\Desktop\LntTechTraining\VSTraining\RemoteServer\obj\Debug\RemoteServer.pdb
+C:\Users\Phani Raj\Desktop\LntTechTraining\VSTraining\RemotingDemo\RemoteServer\bin\Debug\RemoteServer.exe.config
+C:\Users\Phani Raj\Desktop\LntTechTraining\VSTraining\RemotingDemo\RemoteServer\bin\Debug\RemoteServer.exe
+C:\Users\Phani Raj\Desktop\LntTechTraining\VSTraining\RemotingDemo\RemoteServer\bin\Debug\RemoteServer.pdb
+C:\Users\Phani Raj\Desktop\LntTechTraining\VSTraining\RemotingDemo\RemoteServer\bin\Debug\RemoteObjectLib.dll
+C:\Users\Phani Raj\Desktop\LntTechTraining\VSTraining\RemotingDemo\RemoteServer\bin\Debug\RemoteObjectLib.pdb
+C:\Users\Phani Raj\Desktop\LntTechTraining\VSTraining\RemotingDemo\RemoteServer\obj\Debug\RemoteServer.csprojResolveAssemblyReference.cache
+C:\Users\Phani Raj\Desktop\LntTechTraining\VSTraining\RemotingDemo\RemoteServer\obj\Debug\RemoteServer.exe
+C:\Users\Phani Raj\Desktop\LntTechTraining\VSTraining\RemotingDemo\RemoteServer\obj\Debug\RemoteServer.pdb
